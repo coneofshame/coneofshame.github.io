@@ -54,7 +54,7 @@ header #branding{
 	float:left;
 }
 header #branding h1{
-	margin:0;#
+	margin:0;
 }
 header nav{
 	float:right;
@@ -187,6 +187,13 @@ ul#services li{
 	background:#e6e6e6;
 }
 
+#present h1{
+	color:#161229;
+	font-weight:bold;
+	font-size:55px;
+	text-align:center;
+	margin-top:0;
+}
 
 
 
